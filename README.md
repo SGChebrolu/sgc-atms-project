@@ -1,4 +1,4 @@
-# demo-project
+# Project Details
 Project for MobiQuity
 
 # How to Run
